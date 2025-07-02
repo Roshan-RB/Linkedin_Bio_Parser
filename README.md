@@ -73,7 +73,7 @@ This is an educational app — feel free to fork, learn, or improve!
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots 
 
 ![image](https://github.com/user-attachments/assets/fa150d50-4183-45dc-87e9-b0fa79e17fda)
 

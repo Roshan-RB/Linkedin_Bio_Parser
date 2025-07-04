@@ -61,6 +61,8 @@ if st.button("🧠 Extract Profile"):
                 st.write("**🎯 Interests:**", ", ".join(result.interests or []))
                 st.write("**🚀 Open to Opportunities:**", result.open_to_opportunities.capitalize())
 
+                st.session_state["structured_output"] = result
+
                 with st.expander("🔍 View Raw pydantic"):
                     st.json(result)
 

@@ -83,6 +83,9 @@ This is an educational app — feel free to fork, learn, or improve!
 
 ![image](https://github.com/user-attachments/assets/404c5982-4305-475e-8b9c-dd8cc208a390)
 
+![image](https://github.com/user-attachments/assets/9fcee9e1-35e9-443d-bf77-66df501190ee)
+
+
 
 ---
 
